@@ -1,0 +1,9 @@
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.deps.json
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfo.cs
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.pdb

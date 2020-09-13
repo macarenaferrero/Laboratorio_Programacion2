@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\bin\Debug\PrincipalForms.exe.config
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\bin\Debug\PrincipalForms.exe
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\bin\Debug\PrincipalForms.pdb
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\obj\Debug\PrincipalForms.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\obj\Debug\PrincipalForms.Form1.resources
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\obj\Debug\PrincipalForms.Properties.Resources.resources
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\obj\Debug\PrincipalForms.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\obj\Debug\PrincipalForms.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\obj\Debug\PrincipalForms.exe
+C:\Users\macar\source\repos\Ejermplo_Clase6\PrincipalForms\obj\Debug\PrincipalForms.pdb

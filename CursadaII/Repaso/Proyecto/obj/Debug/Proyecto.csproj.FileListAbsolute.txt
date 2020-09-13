@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\bin\Debug\Biblioteca.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\bin\Debug\Biblioteca.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Proyecto\obj\Debug\Proyecto.pdb

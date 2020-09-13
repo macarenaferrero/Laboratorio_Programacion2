@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Repaso\Biblioteca\obj\Debug\Biblioteca.pdb

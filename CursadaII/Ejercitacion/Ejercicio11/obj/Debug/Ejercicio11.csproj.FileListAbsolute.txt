@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\bin\Debug\Biblioteca.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\bin\Debug\Biblioteca.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\obj\Debug\Ejercicio11.csproj.CopyComplete
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\Ejercitacion\Ejercicio11\obj\Debug\Ejercicio11.pdb
