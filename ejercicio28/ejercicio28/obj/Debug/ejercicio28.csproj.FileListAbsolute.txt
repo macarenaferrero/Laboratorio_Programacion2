@@ -1,0 +1,10 @@
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\bin\Debug\ejercicio28.exe.config
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\bin\Debug\ejercicio28.exe
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\bin\Debug\ejercicio28.pdb
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\obj\Debug\ejercicio28.csprojAssemblyReference.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\obj\Debug\ejercicio28.FormPrincipal.resources
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\obj\Debug\ejercicio28.Properties.Resources.resources
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\obj\Debug\ejercicio28.csproj.GenerateResource.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\obj\Debug\ejercicio28.csproj.CoreCompileInputs.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\obj\Debug\ejercicio28.exe
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\ejercicio28\obj\Debug\ejercicio28.pdb
