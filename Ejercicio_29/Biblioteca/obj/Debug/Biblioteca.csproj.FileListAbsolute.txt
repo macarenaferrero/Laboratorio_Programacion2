@@ -1,0 +1,6 @@
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Biblioteca\obj\Debug\Biblioteca.pdb

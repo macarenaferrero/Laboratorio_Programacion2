@@ -1,0 +1,9 @@
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\bin\Debug\Equipo.dll
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\bin\Debug\Equipo.pdb
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\bin\Debug\Biblioteca.dll
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\bin\Debug\Biblioteca.pdb
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\obj\Debug\Equipo.csprojAssemblyReference.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\obj\Debug\Equipo.csproj.CoreCompileInputs.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\obj\Debug\Equipo.csproj.CopyComplete
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\obj\Debug\Equipo.dll
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\ejercicio28\Equipo\obj\Debug\Equipo.pdb

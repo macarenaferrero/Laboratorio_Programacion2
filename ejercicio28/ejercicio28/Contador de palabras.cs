@@ -19,36 +19,55 @@ namespace ejercicio28
             InitializeComponent();
         }
 
-        
-
-
 
         private void Calcular_OnClick(object sender, EventArgs e)
         {
 
-            Dictionary<string, int> Palabras = new Dictionary<string, int>();
+            Dictionary<string, int> palabras = new Dictionary<string, int>();
 
             string auxPalabras;
             auxPalabras = this.richTxtPalabras.Text;
             string[] variasPalabras;
             variasPalabras = auxPalabras.Split(' ');
-            int contador = 1;
 
             foreach (string palabra in variasPalabras)
             {
-                if(!Palabras.ContainsKey(palabra))
+                if(!palabras.ContainsKey(palabra))
                 {
-                    Palabras.Add(palabra, contador);
+                    palabras.Add(palabra, 1);
                 }
                 else
                 {
-                    Palabras[palabra]++;
+                    palabras[palabra]++;
                 }
-                contador = 1;
-                
 
-                MessageBox("Wd");
             }
+
+            //convierto diccionario a lista
+            List<KeyValuePair<string, int>> listaPalabras = palabras.ToList();
+
+            //lista a sort 
+            // dict.OrderBy(x => x.Value).ToDictionary()
+            listaPalabras.Sort(OrdenarPorInt);
+
+            MessageBox.Show($"La palabra mas usada es {listaPalabras[0].Key}, {listaPalabras[0].Value} veces");
+            
+
+        }
+
+        public static int OrdenarPorInt(KeyValuePair<string, int> palabraSiguiente, KeyValuePair<string, int> palabraActual)
+        {
+            int retorno = 0;
+            if(palabraActual.Value > palabraSiguiente.Value)
+            {
+                retorno = 1;
+            }
+            else if(palabraActual.Value < palabraSiguiente.Value)
+            {
+                retorno = -1;
+            }
+
+            return retorno;
         }
     }
 }
