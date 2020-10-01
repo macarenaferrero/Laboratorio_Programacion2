@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CentralitaHerencia;
 
 namespace CentralitaHerencia
 {
@@ -118,7 +119,7 @@ namespace CentralitaHerencia
 
         public void OrdenarLlamadas()
         {
-            this.Llamadas.Sort(Llamada.OrdenarPorDuracion);
+            this.listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
     }
 }

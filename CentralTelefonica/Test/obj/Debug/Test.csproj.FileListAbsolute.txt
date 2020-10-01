@@ -1,1 +1,10 @@
 C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\bin\Debug\Test.exe.config
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\bin\Debug\Test.exe
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\bin\Debug\Test.pdb
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\obj\Debug\Test.exe
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\Test\obj\Debug\Test.pdb
