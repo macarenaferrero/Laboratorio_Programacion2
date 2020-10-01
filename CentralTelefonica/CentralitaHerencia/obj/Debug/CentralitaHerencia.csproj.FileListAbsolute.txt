@@ -1,0 +1,2 @@
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\macar\OneDrive\Documentos\programacion II\Laboratorio_Programacion2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
