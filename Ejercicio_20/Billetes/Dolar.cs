@@ -13,13 +13,12 @@ namespace Billetes
         private double cantidad;
         private static double cotizRespectoDolar;
 
-        public Dolar()
+        static Dolar()
         {
             Dolar.cotizRespectoDolar = 1;
         }
 
         public Dolar(double cantidad)
-            : this()
         {
             this.cantidad = cantidad;
         }
