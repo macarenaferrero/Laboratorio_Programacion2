@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\bin\Debug\Ejercicio_14.exe.config
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\bin\Debug\Ejercicio_14.exe
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\bin\Debug\Ejercicio_14.pdb
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\bin\Debug\LibreriadeClases.dll
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\bin\Debug\LibreriadeClases.pdb
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\obj\Debug\Ejercicio_14.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\obj\Debug\Ejercicio_14.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\obj\Debug\Ejercicio_14.csproj.CopyComplete
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\obj\Debug\Ejercicio_14.exe
+C:\Users\macar\source\repos\Ejercicios_Guias\Ejercicio_14\obj\Debug\Ejercicio_14.pdb

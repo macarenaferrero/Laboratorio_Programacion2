@@ -1,0 +1,7 @@
+C:\Users\macar\source\repos\Retomando\Retomando\bin\Debug\Retomando.exe.config
+C:\Users\macar\source\repos\Retomando\Retomando\bin\Debug\Retomando.exe
+C:\Users\macar\source\repos\Retomando\Retomando\bin\Debug\Retomando.pdb
+C:\Users\macar\source\repos\Retomando\Retomando\obj\Debug\Retomando.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Retomando\Retomando\obj\Debug\Retomando.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Retomando\Retomando\obj\Debug\Retomando.exe
+C:\Users\macar\source\repos\Retomando\Retomando\obj\Debug\Retomando.pdb

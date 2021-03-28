@@ -1,0 +1,5 @@
+C:\Users\macar\source\repos\Contador de Macarena Ferrero\Contador de Macarena Ferrero\obj\Debug\Contador de Macarena Ferrero.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Contador de Macarena Ferrero\Contador de Macarena Ferrero\obj\Debug\Contador_de_Macarena_Ferrero.CuentaGanadoForm.resources
+C:\Users\macar\source\repos\Contador de Macarena Ferrero\Contador de Macarena Ferrero\obj\Debug\Contador_de_Macarena_Ferrero.Properties.Resources.resources
+C:\Users\macar\source\repos\Contador de Macarena Ferrero\Contador de Macarena Ferrero\obj\Debug\Contador de Macarena Ferrero.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\Contador de Macarena Ferrero\Contador de Macarena Ferrero\obj\Debug\Contador de Macarena Ferrero.csproj.CoreCompileInputs.cache

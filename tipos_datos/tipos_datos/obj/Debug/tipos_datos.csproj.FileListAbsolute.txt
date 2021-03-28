@@ -1,0 +1,7 @@
+C:\Users\macar\source\repos\tipos_datos\tipos_datos\bin\Debug\tipos_datos.exe.config
+C:\Users\macar\source\repos\tipos_datos\tipos_datos\bin\Debug\tipos_datos.exe
+C:\Users\macar\source\repos\tipos_datos\tipos_datos\bin\Debug\tipos_datos.pdb
+C:\Users\macar\source\repos\tipos_datos\tipos_datos\obj\Debug\tipos_datos.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\tipos_datos\tipos_datos\obj\Debug\tipos_datos.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\tipos_datos\tipos_datos\obj\Debug\tipos_datos.exe
+C:\Users\macar\source\repos\tipos_datos\tipos_datos\obj\Debug\tipos_datos.pdb

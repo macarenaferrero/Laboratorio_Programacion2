@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\Ejercicio_19\Sumador\bin\Debug\Sumador.dll
+C:\Users\macar\source\repos\Ejercicio_19\Sumador\bin\Debug\Sumador.pdb
+C:\Users\macar\source\repos\Ejercicio_19\Sumador\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicio_19\Sumador\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicio_19\Sumador\obj\Debug\Sumador.dll
+C:\Users\macar\source\repos\Ejercicio_19\Sumador\obj\Debug\Sumador.pdb

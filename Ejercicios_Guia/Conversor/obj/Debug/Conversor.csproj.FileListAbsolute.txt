@@ -1,0 +1,7 @@
+C:\Users\macar\source\repos\Ejercicios_Guia\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\macar\source\repos\Ejercicios_Guia\Conversor\bin\Debug\Conversor.exe
+C:\Users\macar\source\repos\Ejercicios_Guia\Conversor\bin\Debug\Conversor.pdb
+C:\Users\macar\source\repos\Ejercicios_Guia\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicios_Guia\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicios_Guia\Conversor\obj\Debug\Conversor.exe
+C:\Users\macar\source\repos\Ejercicios_Guia\Conversor\obj\Debug\Conversor.pdb

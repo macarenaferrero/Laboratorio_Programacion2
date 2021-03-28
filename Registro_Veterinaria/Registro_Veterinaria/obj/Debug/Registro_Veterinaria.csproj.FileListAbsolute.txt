@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\bin\Debug\Registro_Veterinaria.exe.config
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\bin\Debug\Registro_Veterinaria.exe
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\bin\Debug\Registro_Veterinaria.pdb
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\bin\Debug\Biblioteca.dll
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\bin\Debug\Biblioteca.pdb
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\obj\Debug\Registro_Veterinaria.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\obj\Debug\Registro_Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\obj\Debug\Registro_Veterinaria.csproj.CopyComplete
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\obj\Debug\Registro_Veterinaria.exe
+C:\Users\macar\source\repos\Registro_Veterinaria\Registro_Veterinaria\obj\Debug\Registro_Veterinaria.pdb

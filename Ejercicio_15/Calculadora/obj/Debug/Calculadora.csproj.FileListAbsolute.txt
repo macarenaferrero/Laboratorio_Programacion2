@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\Ejercicio_15\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\macar\source\repos\Ejercicio_15\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\macar\source\repos\Ejercicio_15\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicio_15\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicio_15\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\macar\source\repos\Ejercicio_15\Calculadora\obj\Debug\Calculadora.pdb
