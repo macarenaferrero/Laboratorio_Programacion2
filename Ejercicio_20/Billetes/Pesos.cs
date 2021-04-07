@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Billetes
+namespace Monedas
 {
 #pragma warning disable CS0660
 #pragma warning disable CS0661

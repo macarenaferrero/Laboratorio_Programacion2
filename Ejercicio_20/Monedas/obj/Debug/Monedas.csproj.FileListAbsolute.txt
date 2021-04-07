@@ -1,0 +1,6 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_20\Monedas\bin\Debug\Monedas.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_20\Monedas\bin\Debug\Monedas.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_20\Monedas\obj\Debug\Monedas.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_20\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_20\Monedas\obj\Debug\Monedas.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_20\Monedas\obj\Debug\Monedas.pdb

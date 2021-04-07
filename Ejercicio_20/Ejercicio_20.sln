@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_20", "Ejercicio_2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Billetes\Billetes.csproj", "{AEEAE5C6-DAD4-4305-A1AE-601C7703532C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monedas", "Monedas\Monedas.csproj", "{13551C1C-2779-4639-BFFE-037AD449700E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmPrincipalll", "FrmPrincipalll\FrmPrincipalll.csproj", "{87F24913-679E-4CC0-9801-196FED693778}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{AEEAE5C6-DAD4-4305-A1AE-601C7703532C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEEAE5C6-DAD4-4305-A1AE-601C7703532C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEEAE5C6-DAD4-4305-A1AE-601C7703532C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13551C1C-2779-4639-BFFE-037AD449700E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13551C1C-2779-4639-BFFE-037AD449700E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13551C1C-2779-4639-BFFE-037AD449700E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13551C1C-2779-4639-BFFE-037AD449700E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F24913-679E-4CC0-9801-196FED693778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F24913-679E-4CC0-9801-196FED693778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F24913-679E-4CC0-9801-196FED693778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F24913-679E-4CC0-9801-196FED693778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
