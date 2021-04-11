@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\Ejercicio_33\Libreria\bin\Debug\Libreria.dll
+C:\Users\macar\source\repos\Ejercicio_33\Libreria\bin\Debug\Libreria.pdb
+C:\Users\macar\source\repos\Ejercicio_33\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicio_33\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicio_33\Libreria\obj\Debug\Libreria.dll
+C:\Users\macar\source\repos\Ejercicio_33\Libreria\obj\Debug\Libreria.pdb

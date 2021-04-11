@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.exe.config
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.exe
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.pdb
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\bin\Debug\Libreria.dll
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\bin\Debug\Libreria.pdb
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csproj.CopyComplete
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.exe
+C:\Users\macar\source\repos\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.pdb
