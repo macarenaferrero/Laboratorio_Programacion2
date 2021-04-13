@@ -8,32 +8,21 @@ namespace CentralitaHerencia
 {
     public class Provincial : Llamada
     {
-        public enum Franja
-        {
-            Franja_1 = 99,
-            Franja_2 = 125,
-            Franja_3 = 66
-        }
         protected Franja franjaHoraria;
 
+        public enum Franja
+        {
+            Franja_1 = 99,  
+            Franja_2 = 125,
+            Franja_3 = 66,
+        }
 
         public float CostoLlamada
         {
-            get 
-            { 
-                return this.CalcularCosto(); 
+            get
+            {
+                return this.CalcularCosto();
             }
-        }
-
-        public Provincial(Franja miFranja, Llamada llamada)
-            : base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
-        {
-            this.franjaHoraria = miFranja;
-        }
-        
-        public Provincial(string origen, Franja miFranja, float duracion, string destino)
-            :this(miFranja, new Llamada(duracion, destino, origen))
-        {
         }
 
         private float CalcularCosto()
@@ -41,19 +30,26 @@ namespace CentralitaHerencia
             return ((float)(this.franjaHoraria) / 100) * base.Duracion;
         }
 
+        public Provincial(Franja miFranja, Llamada llamada)
+            : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
+        {
+        }
+
+        public Provincial(string origen, Franja miFranja, float duracion, string destino) :base(duracion, origen, destino)
+        {
+            this.franjaHoraria = miFranja;
+        }
+
         public override string Mostrar()
         {
-            StringBuilder retorno = new StringBuilder();
+            StringBuilder sbAux = new StringBuilder();
 
-            retorno.AppendLine("Llamada Provincial");
-            retorno.Append(base.Mostrar());
-            retorno.AppendLine("Franja Horario: " + this.franjaHoraria);
-            retorno.AppendLine("Costo llamada: " + this.CostoLlamada);
+            sbAux.AppendLine($"Los datos de la llamada son: {base.Mostrar()}");
+            sbAux.AppendLine($"El costo de la llamada es: {this.CostoLlamada}");
+            sbAux.AppendLine($"La franja horaria de la llamada es: {this.franjaHoraria}");
 
-            return retorno.ToString();
+            return sbAux.ToString();
         }
-        
-
 
     }
 }

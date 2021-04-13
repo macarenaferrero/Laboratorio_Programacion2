@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15625BEB-7AB0-4775-B364-F136E4379556}</ProjectGuid>
+    <ProjectGuid>{2BD9391E-F785-4BA4-B5C6-7687AA5445EC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CentralitaHerencia</RootNamespace>
@@ -41,11 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Centralita.cs" />
-    <Compile Include="Llamada.cs" />
-    <Compile Include="Local.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Centralitas.cs" />
     <Compile Include="Provincial.cs" />
+    <Compile Include="Locals.cs" />
+    <Compile Include="Llamadas.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
