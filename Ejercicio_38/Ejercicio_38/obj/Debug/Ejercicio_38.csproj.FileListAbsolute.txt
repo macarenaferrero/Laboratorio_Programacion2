@@ -1,0 +1,7 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.pdb
