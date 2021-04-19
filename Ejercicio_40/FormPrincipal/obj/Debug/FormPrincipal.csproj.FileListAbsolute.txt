@@ -1,0 +1,15 @@
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\bin\Debug\CentralitaHerencia.dll
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\bin\Debug\CentralitaHerencia.pdb
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.FormMenu.resources
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.FormMostrar.resources
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\macar\source\repos\Ejercicio_40\FormPrincipal\obj\Debug\FormPrincipal.FormLlamador.resources
