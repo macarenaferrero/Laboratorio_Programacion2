@@ -1,0 +1,6 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\Bebidas\bin\Debug\Bebidas.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\Bebidas\bin\Debug\Bebidas.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\Bebidas\obj\Debug\Bebidas.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\Bebidas\obj\Debug\Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\Bebidas\obj\Debug\Bebidas.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\Bebidas\obj\Debug\Bebidas.pdb

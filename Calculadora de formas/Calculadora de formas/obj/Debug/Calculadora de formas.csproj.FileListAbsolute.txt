@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\bin\Debug\Calculadora de formas.exe.config
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\bin\Debug\Calculadora de formas.exe
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\bin\Debug\Calculadora de formas.pdb
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\bin\Debug\Formas.dll
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\bin\Debug\Formas.pdb
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\obj\Debug\Calculadora de formas.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\obj\Debug\Calculadora de formas.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\obj\Debug\Calculadora de formas.csproj.CopyComplete
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\obj\Debug\Calculadora de formas.exe
+C:\Users\macar\source\repos\Calculadora de formas\Calculadora de formas\obj\Debug\Calculadora de formas.pdb

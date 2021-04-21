@@ -1,0 +1,15 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\Bebidas.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\Bebidas.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.frmPrincipal.resources
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Cantina\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.pdb
