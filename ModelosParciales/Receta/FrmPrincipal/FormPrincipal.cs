@@ -41,10 +41,5 @@ namespace FrmPrincipal
         {
             rtbSalidadDeTest.Text = receta.ToString();
         }
-
-        private void rtbSalidadDeTest_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
