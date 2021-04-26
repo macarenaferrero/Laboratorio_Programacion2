@@ -1,0 +1,13 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\bin\Debug\Entidades.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\bin\Debug\Entidades.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.FrmJardin.resources
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Jardines\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
