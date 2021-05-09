@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reparcial", "Reparcial\Reparcial.csproj", "{6F25C0E7-F4D1-443D-AE25-A7BED16E36FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria", "Libreria\Libreria.csproj", "{A962F566-A425-4B0B-B365-131055AF61D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F25C0E7-F4D1-443D-AE25-A7BED16E36FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F25C0E7-F4D1-443D-AE25-A7BED16E36FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F25C0E7-F4D1-443D-AE25-A7BED16E36FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F25C0E7-F4D1-443D-AE25-A7BED16E36FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A962F566-A425-4B0B-B365-131055AF61D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A962F566-A425-4B0B-B365-131055AF61D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A962F566-A425-4B0B-B365-131055AF61D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A962F566-A425-4B0B-B365-131055AF61D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1FB6621-7C9E-4BC2-9ED7-9825530110E5}
+	EndGlobalSection
+EndGlobal

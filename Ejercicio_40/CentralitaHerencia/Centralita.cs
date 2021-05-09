@@ -153,8 +153,15 @@ namespace CentralitaHerencia
                 {
                     if ((nuevaLlamada is Local) || (nuevaLlamada is Provincial))
                     {
-                        c.AgregarLlamada(nuevaLlamada);
-                        return c;
+                        if (c == nuevaLlamada)
+                        {
+                            throw new CentralitaException("Oh Oh, ocurrio error!", "Centralita", "Operador +");
+                        }
+                        else
+                        {
+                            c.AgregarLlamada(nuevaLlamada);
+                        }
+
                     }
                 }
             }

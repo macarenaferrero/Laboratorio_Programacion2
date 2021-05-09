@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\Reparcial\Reparcial\bin\Debug\Reparcial.dll
+C:\Users\macar\source\repos\Reparcial\Reparcial\bin\Debug\Reparcial.pdb
+C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.dll
+C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.pdb

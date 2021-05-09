@@ -11,8 +11,11 @@ namespace Entidades
     public class Sedan : Vehiculo
     {
         #region Enumerado
-        public enum ETipo { CuatroPuertas,
-                            CincoPuertas }
+        public enum ETipo
+        {
+            CuatroPuertas,
+            CincoPuertas
+        }
         #endregion
 
         ETipo tipo;

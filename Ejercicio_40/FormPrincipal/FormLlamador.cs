@@ -123,19 +123,37 @@ namespace FormPrincipal
                 if (txtNroDestino.Text.StartsWith("#"))
                 {
                     Provincial auxLlamada = new Provincial(txtNroOrigen.Text, (Provincial.Franja)cbFranja.SelectedIndex, auxDuracion, txtNroDestino.Text);
-                    c = c + auxLlamada;
+                    try
+                    {
+                        c = c + auxLlamada;
+
+                    }
+                    catch (CentralitaException epa)
+                    {
+                        string mensaje = epa.Message + epa.NombreClase + epa.NombreMetodo;
+                        MessageBox.Show(mensaje);
+                    }
+
                 }
                 else
                 {
-                    auxCosto = auxRandom.Next(5, 56)/10;
+                    auxCosto = auxRandom.Next(5, 56) / 10;
                     Local auxLlamada = new Local(auxDuracion, txtNroDestino.Text, txtNroOrigen.Text, auxCosto);
-                    c = c + auxLlamada;
+                    try
+                    {
+                        c = c + auxLlamada;
+                    }
+                    catch (CentralitaException epa)
+                    {
+                        string mensaje = epa.Message + epa.NombreClase + epa.NombreMetodo;
+                        MessageBox.Show(mensaje);
+                    }
                 }
             }
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
-        {
+       
 
             DialogResult aux = MessageBox.Show("Esta seguro de que desea salir?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (aux == DialogResult.Yes)
