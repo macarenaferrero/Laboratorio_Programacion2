@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\CalculadoraString\CalculadoraString\bin\Debug\CalculadoraString.dll
+C:\Users\macar\source\repos\CalculadoraString\CalculadoraString\bin\Debug\CalculadoraString.pdb
+C:\Users\macar\source\repos\CalculadoraString\CalculadoraString\obj\Debug\CalculadoraString.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\CalculadoraString\CalculadoraString\obj\Debug\CalculadoraString.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\CalculadoraString\CalculadoraString\obj\Debug\CalculadoraString.dll
+C:\Users\macar\source\repos\CalculadoraString\CalculadoraString\obj\Debug\CalculadoraString.pdb

@@ -4,3 +4,9 @@ C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.csprojAssemb
 C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.csproj.CoreCompileInputs.cache
 C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.dll
 C:\Users\macar\source\repos\Reparcial\Reparcial\obj\Debug\Reparcial.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Reparcial\Reparcial\bin\Debug\Reparcial.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Reparcial\Reparcial\bin\Debug\Reparcial.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Reparcial\Reparcial\obj\Debug\Reparcial.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Reparcial\Reparcial\obj\Debug\Reparcial.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Reparcial\Reparcial\obj\Debug\Reparcial.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Reparcial\Reparcial\obj\Debug\Reparcial.pdb

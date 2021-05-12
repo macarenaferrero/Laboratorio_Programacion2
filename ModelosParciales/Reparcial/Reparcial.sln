@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reparcial", "Reparcial\Repa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria", "Libreria\Libreria.csproj", "{A962F566-A425-4B0B-B365-131055AF61D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVendedor", "TestVendedor\TestVendedor.csproj", "{D91D84E8-D033-4FB9-BCC0-4F713DA882EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A962F566-A425-4B0B-B365-131055AF61D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A962F566-A425-4B0B-B365-131055AF61D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A962F566-A425-4B0B-B365-131055AF61D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91D84E8-D033-4FB9-BCC0-4F713DA882EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91D84E8-D033-4FB9-BCC0-4F713DA882EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91D84E8-D033-4FB9-BCC0-4F713DA882EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91D84E8-D033-4FB9-BCC0-4F713DA882EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

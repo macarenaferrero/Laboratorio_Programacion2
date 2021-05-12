@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\Contabilidad\Contabilidad\bin\Debug\Contabilidad.dll
+C:\Users\macar\source\repos\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.dll
+C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb

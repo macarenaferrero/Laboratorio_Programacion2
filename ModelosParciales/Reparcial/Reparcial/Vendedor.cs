@@ -17,9 +17,17 @@ namespace Reparcial
         }
 
         public Vendedor(string nombre)
-            :this()
+            : this()
         {
             this.nombre = nombre;
+        }
+
+        public List<Publicacion> Ventas
+        {
+            get
+            {
+                return ventas;
+            }
         }
 
         public static string InformeDeVentas(Vendedor v)
@@ -41,9 +49,9 @@ namespace Reparcial
 
         public static bool operator +(Vendedor v, Publicacion p)
         {
-            if(!(v is null) && !(p is null))
+            if (!(v is null) && !(p is null))
             {
-                if(p.Stock > 0)
+                if (p.Stock > 0)
                 {
                     v.ventas.Add(p);
                     p.Stock--;

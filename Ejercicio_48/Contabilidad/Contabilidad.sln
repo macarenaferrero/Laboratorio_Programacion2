@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contabilidad", "Contabilidad\Contabilidad.csproj", "{7CC5CE70-5357-410F-8B2B-9212E6D62C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reveer", "Reveer\Reveer.csproj", "{AEE896C5-D338-43CC-8350-A430F361A9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC5CE70-5357-410F-8B2B-9212E6D62C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC5CE70-5357-410F-8B2B-9212E6D62C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC5CE70-5357-410F-8B2B-9212E6D62C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC5CE70-5357-410F-8B2B-9212E6D62C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE896C5-D338-43CC-8350-A430F361A9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE896C5-D338-43CC-8350-A430F361A9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE896C5-D338-43CC-8350-A430F361A9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE896C5-D338-43CC-8350-A430F361A9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EF6929-1E26-41CF-BAD7-5ED5DE19D3B4}
+	EndGlobalSection
+EndGlobal
