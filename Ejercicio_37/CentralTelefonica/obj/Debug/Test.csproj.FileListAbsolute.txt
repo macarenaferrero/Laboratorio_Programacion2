@@ -8,3 +8,13 @@ C:\Users\macar\Desktop\Laboratorio_Programacion2\CentralTelefonica\CentralTelefo
 C:\Users\macar\Desktop\Laboratorio_Programacion2\CentralTelefonica\CentralTelefonica\obj\Debug\Test.csproj.CopyComplete
 C:\Users\macar\Desktop\Laboratorio_Programacion2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.exe
 C:\Users\macar\Desktop\Laboratorio_Programacion2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\bin\Debug\CentralitaHerencia.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\bin\Debug\CentralitaHerencia.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\obj\Debug\Test.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_37\CentralTelefonica\obj\Debug\CentralTelefonica.pdb

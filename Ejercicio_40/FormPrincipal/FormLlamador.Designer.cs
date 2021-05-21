@@ -216,6 +216,7 @@
             this.btnLimpiar.TabIndex = 16;
             this.btnLimpiar.Text = "Limipiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnSalir
             // 
@@ -264,6 +265,7 @@
             this.Name = "FormLlamador";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Llamador";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormLlamador_FormClosing);
             this.Load += new System.EventHandler(this.FormLlamador_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -28,7 +28,8 @@ namespace CentralitaHerencia
         public abstract float CostoLlamada { get; }
 
         public float Duracion
-        { get
+        {
+            get
             {
                 return this.duracion;
             }
@@ -73,12 +74,12 @@ namespace CentralitaHerencia
         public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
         {
             int retorno;
-            if(llamada1.Duracion > llamada2.Duracion)
+            if (llamada1.Duracion > llamada2.Duracion)
             {
                 retorno = 0;
             }
 
-            if(llamada1.Duracion > llamada2.Duracion)
+            if (llamada1.Duracion < llamada2.Duracion)
             {
                 retorno = 1;
             }
@@ -92,6 +93,7 @@ namespace CentralitaHerencia
         public static bool operator ==(Llamada l1, Llamada l2)
         {
             return l1.Equals(l2);
+
         }
 
         public static bool operator !=(Llamada l1, Llamada l2)

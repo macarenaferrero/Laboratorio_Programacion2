@@ -56,8 +56,7 @@ namespace FormPrincipal
             DialogResult aux = MessageBox.Show("Esta seguro de que desea salir?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if(aux == DialogResult.Yes)
             {
-                Close();               
-                //Dispose();
+                this.Dispose();
             }
 
             

@@ -28,7 +28,8 @@ namespace FormPrincipal
             cbFranja.Enabled = false;
         }
 
-        public FormLlamador(Centralita centralitaFormLlamador) : this()
+        public FormLlamador(Centralita centralitaFormLlamador)
+            : this()
         {
             this.c = centralitaFormLlamador;
         }
@@ -153,18 +154,37 @@ namespace FormPrincipal
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
-       
+        {
 
-            DialogResult aux = MessageBox.Show("Esta seguro de que desea salir?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (aux == DialogResult.Yes)
-            {
-                Close();
-                //Dispose();
-            }
+
+            Close();
+            //Dispose();
+
             // MessageBox si sale todo bien, slae pero antes de llamar al dispose 
             //FormMenu.c = //propiedad c y luego al dispose
 
 
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            txtNroDestino.Text = string.Empty;
+            txtNroOrigen.Text = string.Empty;
+            cbFranja.SelectedIndex = -1;
+            cbFranja.Enabled = false;
+        }
+
+        private void FormLlamador_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult aux = MessageBox.Show("Esta seguro de que desea salir?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (aux == DialogResult.Yes)
+            {
+                this.Dispose();
+            }
+            else
+            {
+                e.Cancel = true;
+            }
         }
     }
 }

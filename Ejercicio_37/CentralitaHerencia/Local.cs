@@ -8,7 +8,7 @@ namespace CentralitaHerencia
 {
     public class Local : Llamada
     {
-        private float costo;
+        protected float costo;
 
         public float CostoLlamada 
         {

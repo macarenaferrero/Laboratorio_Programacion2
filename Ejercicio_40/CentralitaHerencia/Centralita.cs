@@ -47,7 +47,7 @@ namespace CentralitaHerencia
             }
         }
 
-        public Centralita()
+        private Centralita()
         {
             this.listaDeLlamadas = new List<Llamada>();
         }
@@ -155,7 +155,7 @@ namespace CentralitaHerencia
                     {
                         if (c == nuevaLlamada)
                         {
-                            throw new CentralitaException("Oh Oh, ocurrio error!", "Centralita", "Operador +");
+                            throw new CentralitaException("La llamada ya estaba adherida", "Centralita", "Operador +");
                         }
                         else
                         {
