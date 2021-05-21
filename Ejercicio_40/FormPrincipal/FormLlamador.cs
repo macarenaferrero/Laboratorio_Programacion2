@@ -123,10 +123,11 @@ namespace FormPrincipal
                 auxDuracion = auxRandom.Next(1, 51);
                 if (txtNroDestino.Text.StartsWith("#"))
                 {
-                    Provincial auxLlamada = new Provincial(txtNroOrigen.Text, (Provincial.Franja)cbFranja.SelectedIndex, auxDuracion, txtNroDestino.Text);
                     try
                     {
+                        Provincial auxLlamada = new Provincial(txtNroOrigen.Text, (Provincial.Franja)cbFranja.SelectedIndex, auxDuracion, txtNroDestino.Text);
                         c = c + auxLlamada;
+                        MessageBox.Show("Llamada Provincial Generada con exito!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
 
                     }
                     catch (CentralitaException epa)
@@ -139,10 +140,12 @@ namespace FormPrincipal
                 else
                 {
                     auxCosto = auxRandom.Next(5, 56) / 10;
-                    Local auxLlamada = new Local(auxDuracion, txtNroDestino.Text, txtNroOrigen.Text, auxCosto);
                     try
                     {
+                        Local auxLlamada = new Local(auxDuracion, txtNroDestino.Text, txtNroOrigen.Text, auxCosto);
                         c = c + auxLlamada;
+                        MessageBox.Show("Llamada local Generada con exito!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+
                     }
                     catch (CentralitaException epa)
                     {
@@ -155,15 +158,7 @@ namespace FormPrincipal
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-
-
             Close();
-            //Dispose();
-
-            // MessageBox si sale todo bien, slae pero antes de llamar al dispose 
-            //FormMenu.c = //propiedad c y luego al dispose
-
-
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
