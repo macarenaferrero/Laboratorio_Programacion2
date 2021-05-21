@@ -1,0 +1,5 @@
+C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

@@ -1,0 +1,13 @@
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\bin\Debug\BibliotecaDeClases.dll
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.FrmPrincipal.resources
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.pdb
