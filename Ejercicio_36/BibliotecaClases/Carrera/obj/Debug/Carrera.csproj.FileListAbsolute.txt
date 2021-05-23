@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\bin\Debug\Carrera.exe.config
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\bin\Debug\Carrera.exe
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\bin\Debug\Carrera.pdb
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\bin\Debug\BibliotecaClases.dll
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\bin\Debug\BibliotecaClases.pdb
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\obj\Debug\Carrera.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\obj\Debug\Carrera.csproj.CopyComplete
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\obj\Debug\Carrera.exe
+C:\Users\macar\source\repos\BibliotecaClases\Carrera\obj\Debug\Carrera.pdb
