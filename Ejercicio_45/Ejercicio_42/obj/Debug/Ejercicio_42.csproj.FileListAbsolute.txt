@@ -1,0 +1,12 @@
+C:\Users\macar\source\repos\Ejercicio_42\Ejercicio_42\bin\Debug\Ejercicio_42.dll
+C:\Users\macar\source\repos\Ejercicio_42\Ejercicio_42\bin\Debug\Ejercicio_42.pdb
+C:\Users\macar\source\repos\Ejercicio_42\Ejercicio_42\obj\Debug\Ejercicio_42.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicio_42\Ejercicio_42\obj\Debug\Ejercicio_42.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicio_42\Ejercicio_42\obj\Debug\Ejercicio_42.dll
+C:\Users\macar\source\repos\Ejercicio_42\Ejercicio_42\obj\Debug\Ejercicio_42.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_45\Ejercicio_42\bin\Debug\Ejercicio_42.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_45\Ejercicio_42\bin\Debug\Ejercicio_42.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_45\Ejercicio_42\obj\Debug\Ejercicio_42.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_45\Ejercicio_42\obj\Debug\Ejercicio_42.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_45\Ejercicio_42\obj\Debug\Ejercicio_42.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_45\Ejercicio_42\obj\Debug\Ejercicio_42.pdb
