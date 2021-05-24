@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Clases52\Main\bin\Debug\Main.exe.config
+C:\Users\macar\source\repos\Clases52\Main\bin\Debug\Main.exe
+C:\Users\macar\source\repos\Clases52\Main\bin\Debug\Main.pdb
+C:\Users\macar\source\repos\Clases52\Main\bin\Debug\Clases52.dll
+C:\Users\macar\source\repos\Clases52\Main\bin\Debug\Clases52.pdb
+C:\Users\macar\source\repos\Clases52\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Clases52\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Clases52\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\macar\source\repos\Clases52\Main\obj\Debug\Main.exe
+C:\Users\macar\source\repos\Clases52\Main\obj\Debug\Main.pdb

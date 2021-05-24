@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CentralitaHerencia.Centralita">
+    <Position X="5.25" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAQAAAAEQAAAAAIQIABgQAAAIIAABAAAAyA=</HashCode>
+      <FileName>Centralita.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CentralitaHerencia.Llamada">
+    <Position X="2" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="CentralitaHerencia.Llamada.TipoLlamada" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Llamada.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAACAgAAAQAAAAAAAAACAgAAAABAAAAAQAAgAgAAiA=</HashCode>
+      <FileName>Llamada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentralitaHerencia.Local">
+    <Position X="0.75" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAQAAAAEgAAAAAAAAAAgAAAAIAAQhAAAAAA=</HashCode>
+      <FileName>Local.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CentralitaHerencia.Provincial">
+    <Position X="4" Y="5.75" Width="3" />
+    <NestedTypes>
+      <Enum Name="CentralitaHerencia.Provincial.Franja" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Provincial.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEoAAAAAAAAAAgAAAAIAAQhAAAAAA=</HashCode>
+      <FileName>Provincial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CentralitaHerencia.IGuardar&lt;T&gt;">
+    <Position X="9.25" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAABAAAAAA=</HashCode>
+      <FileName>IGuardar.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
