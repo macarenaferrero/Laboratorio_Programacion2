@@ -4,3 +4,9 @@ C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csp
 C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
 C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.dll
 C:\Users\macar\source\repos\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Contabilidad\bin\Debug\Contabilidad.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Contabilidad\obj\Debug\Contabilidad.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb

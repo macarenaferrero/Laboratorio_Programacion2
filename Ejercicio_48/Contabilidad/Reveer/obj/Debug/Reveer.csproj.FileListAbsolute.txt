@@ -8,3 +8,13 @@ C:\Users\macar\source\repos\Contabilidad\Reveer\obj\Debug\Reveer.csproj.CoreComp
 C:\Users\macar\source\repos\Contabilidad\Reveer\obj\Debug\Reveer.csproj.CopyComplete
 C:\Users\macar\source\repos\Contabilidad\Reveer\obj\Debug\Reveer.exe
 C:\Users\macar\source\repos\Contabilidad\Reveer\obj\Debug\Reveer.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\bin\Debug\Reveer.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\bin\Debug\Reveer.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\bin\Debug\Reveer.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\bin\Debug\Contabilidad.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\bin\Debug\Contabilidad.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\obj\Debug\Reveer.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\obj\Debug\Reveer.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\obj\Debug\Reveer.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\obj\Debug\Reveer.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_48\Contabilidad\Reveer\obj\Debug\Reveer.pdb

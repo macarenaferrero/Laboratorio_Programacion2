@@ -1,0 +1,10 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\bin\Debug\Carrera2.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\bin\Debug\Carrera2.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\bin\Debug\Carrera2.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\bin\Debug\BibliotecaClases.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\bin\Debug\BibliotecaClases.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\obj\Debug\Carrera2.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\obj\Debug\Carrera2.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\obj\Debug\Carrera2.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\obj\Debug\Carrera2.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_49\BibliotecaClases\Carrera2\obj\Debug\Carrera2.pdb
