@@ -1,0 +1,12 @@
+C:\Users\macar\source\repos\Clases52\Clases52\bin\Debug\Clases52.dll
+C:\Users\macar\source\repos\Clases52\Clases52\bin\Debug\Clases52.pdb
+C:\Users\macar\source\repos\Clases52\Clases52\obj\Debug\Clases52.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Clases52\Clases52\obj\Debug\Clases52.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Clases52\Clases52\obj\Debug\Clases52.dll
+C:\Users\macar\source\repos\Clases52\Clases52\obj\Debug\Clases52.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_53\Clases52\Clases52\bin\Debug\Clases52.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_53\Clases52\Clases52\bin\Debug\Clases52.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_53\Clases52\Clases52\obj\Debug\Clases52.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_53\Clases52\Clases52\obj\Debug\Clases52.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_53\Clases52\Clases52\obj\Debug\Clases52.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_53\Clases52\Clases52\obj\Debug\Clases52.pdb
