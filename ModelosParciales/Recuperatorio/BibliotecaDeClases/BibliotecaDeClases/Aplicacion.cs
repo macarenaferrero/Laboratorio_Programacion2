@@ -55,24 +55,24 @@ namespace BibliotecaDeClases
             return sb.ToString();
         }
 
-        //public static implicit operator Aplicacion(List<Aplicacion> listaApp)
-        //{
-        //    int auxTamanio = 0;
-        //    Aplicacion auxAplicacion;
-        //    if (!(listaApp is null))
-        //    {
-        //        foreach (Aplicacion item in listaApp)
-        //        {
-        //            if (item.Tamanio > auxTamanio)
-        //            {
+        public static implicit operator Aplicacion(List<Aplicacion> listaApp)
+        {
+            int auxTamanio = 0;
+            Aplicacion auxAplicacion = null;
+            if (!(listaApp is null))
+            {
+                foreach (Aplicacion item in listaApp)
+                {
+                    if (item.Tamanio > auxTamanio)
+                    {
 
-        //                auxTamanio = item.Tamanio;
-        //                auxAplicacion = item;
-        //            }
-        //        }
-        //    }
-        //    return (Aplicacion)auxAplicacion;
-        //}
+                        auxTamanio = item.Tamanio;
+                        auxAplicacion = item;
+                    }
+                }
+            }
+            return auxAplicacion;
+        }
 
         /// <summary>
         /// Sobrecarga del igual igual, indica true si la app ya esta en la lista, false si no lo esta

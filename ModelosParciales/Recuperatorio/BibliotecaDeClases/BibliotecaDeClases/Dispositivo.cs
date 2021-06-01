@@ -31,16 +31,8 @@ namespace BibliotecaDeClases
             {
                 foreach (Aplicacion item in appsInstaladas)
                 {
-                    if (item.SistemaOperativo == ESistemaOperativo.ANDROID)
-                    {
                         sb.AppendLine($"Sistema operativo: {sistemaOp.ToString()}");
-                        sb.AppendLine($"{item.InfoApp()}");
-                    }
-                    else
-                    {
-                        sb.AppendLine($"Sistema operativo: {sistemaOp.ToString()}");
-                        sb.AppendLine($"{item.InfoApp()}");
-                    }
+                        sb.AppendLine($"{item.InfoApp()}");                    
                 }
             }
 
@@ -54,12 +46,12 @@ namespace BibliotecaDeClases
         /// <returns></returns>
         public static bool InstalarApp(Aplicacion app)
         {
-            if (!(app is null) && appsInstaladas != app && app.GetType() == sistemaOp.GetType())
+            bool retorno = false;
+            if (!(app is null) && appsInstaladas != app && app.SistemaOperativo == sistemaOp)
             {
-                appsInstaladas.Add(app);
-                return true;
+                retorno = appsInstaladas + app;
             }
-            return false;
+            return retorno;
         }
 
 

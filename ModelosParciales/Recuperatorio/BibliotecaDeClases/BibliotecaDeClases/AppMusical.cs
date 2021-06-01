@@ -18,6 +18,7 @@ namespace BibliotecaDeClases
         /// <param name="tamanioInicial">Tamanio de la app a asignar</param>
         public AppMusical(string nombre, ESistemaOperativo sistOp, int tamanioInicial) : base(nombre, sistOp, tamanioInicial)
         {
+            listaCanciones = new List<string>();
         }
 
         /// <summary>
@@ -45,7 +46,7 @@ namespace BibliotecaDeClases
                 }
                 else
                 {
-                    int retorno = this.tamanioMb + (int)(listaCanciones.Count * 2);
+                    int retorno = this.tamanioMb + (listaCanciones.Count * 2);
                     return retorno;
                 }
             }

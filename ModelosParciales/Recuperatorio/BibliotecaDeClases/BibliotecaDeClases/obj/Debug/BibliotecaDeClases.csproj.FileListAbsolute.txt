@@ -3,3 +3,9 @@ C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\Bibl
 C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
 C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
 C:\Users\macar\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

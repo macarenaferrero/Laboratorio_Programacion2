@@ -11,3 +11,16 @@ C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrinc
 C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
 C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.exe
 C:\Users\macar\source\repos\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\bin\Debug\BibliotecaDeClases.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.FrmPrincipal.resources
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\ModelosParciales\Recuperatorio\BibliotecaDeClases\FormPrincipal\obj\Debug\FormPrincipal.pdb
