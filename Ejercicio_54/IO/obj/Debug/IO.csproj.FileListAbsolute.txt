@@ -1,0 +1,6 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_54\IO\bin\Debug\IO.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_54\IO\bin\Debug\IO.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_54\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_54\IO\obj\Debug\IO.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_54\IO\obj\Debug\IO.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_54\IO\obj\Debug\IO.csprojAssemblyReference.cache
