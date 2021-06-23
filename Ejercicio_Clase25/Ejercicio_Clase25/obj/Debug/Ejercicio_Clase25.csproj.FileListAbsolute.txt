@@ -1,0 +1,10 @@
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\bin\Debug\Ejercicio_Clase25.exe.config
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\bin\Debug\Ejercicio_Clase25.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\bin\Debug\Ejercicio_Clase25.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\bin\Debug\Libreria.dll
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\bin\Debug\Libreria.pdb
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\obj\Debug\Ejercicio_Clase25.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\obj\Debug\Ejercicio_Clase25.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\obj\Debug\Ejercicio_Clase25.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\obj\Debug\Ejercicio_Clase25.exe
+C:\Users\macar\Desktop\Laboratorio_Programacion2\Ejercicio_Clase25\Ejercicio_Clase25\obj\Debug\Ejercicio_Clase25.pdb

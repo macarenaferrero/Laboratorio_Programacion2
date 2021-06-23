@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\EjrmploClase\EjrmploClase\bin\Debug\EjrmploClase.dll
+C:\Users\macar\source\repos\EjrmploClase\EjrmploClase\bin\Debug\EjrmploClase.pdb
+C:\Users\macar\source\repos\EjrmploClase\EjrmploClase\obj\Debug\EjemploClase.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\EjrmploClase\EjrmploClase\obj\Debug\EjemploClase.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\EjrmploClase\EjrmploClase\obj\Debug\EjrmploClase.dll
+C:\Users\macar\source\repos\EjrmploClase\EjrmploClase\obj\Debug\EjrmploClase.pdb

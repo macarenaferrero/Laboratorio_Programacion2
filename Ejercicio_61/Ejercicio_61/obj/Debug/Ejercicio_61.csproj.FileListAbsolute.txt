@@ -1,0 +1,6 @@
+C:\Users\macar\source\repos\Ejercicio_61\Ejercicio_61\bin\Debug\Ejercicio_61.dll
+C:\Users\macar\source\repos\Ejercicio_61\Ejercicio_61\bin\Debug\Ejercicio_61.pdb
+C:\Users\macar\source\repos\Ejercicio_61\Ejercicio_61\obj\Debug\Ejercicio_61.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Ejercicio_61\Ejercicio_61\obj\Debug\Ejercicio_61.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Ejercicio_61\Ejercicio_61\obj\Debug\Ejercicio_61.dll
+C:\Users\macar\source\repos\Ejercicio_61\Ejercicio_61\obj\Debug\Ejercicio_61.pdb

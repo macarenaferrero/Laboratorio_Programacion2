@@ -27,7 +27,7 @@ namespace Application.DataAcces
         {
             List<Customer> customers = new List<Customer>();
 
-
+            
             if (!base.Read(path, out customers))
             {
                 throw new Exception();//TODO: implementar

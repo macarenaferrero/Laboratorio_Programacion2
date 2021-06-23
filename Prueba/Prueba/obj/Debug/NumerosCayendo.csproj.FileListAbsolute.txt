@@ -1,0 +1,10 @@
+C:\Users\macar\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\macar\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\macar\source\repos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\macar\source\repos\Prueba\Prueba\obj\Debug\NumerosCayendo.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\macar\source\repos\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\macar\source\repos\Prueba\Prueba\obj\Debug\NumerosCayendo.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\Prueba\Prueba\obj\Debug\NumerosCayendo.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\macar\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb
