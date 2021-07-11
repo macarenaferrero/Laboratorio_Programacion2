@@ -21,7 +21,8 @@ namespace EjrmploClase
 
                 using (StreamWriter writer = new StreamWriter(path, true))
                 {
-                   
+                    writer.WriteLine(texto);
+                    retorno = true;
                 }
             }
             catch (Exception e)
